@@ -32,7 +32,7 @@ Click the **Fork** button at the top right of the repository to create your own 
 ### 3. **Clone Your Fork**
 ```bash
    git clone https://github.com/your-username/chatty_rusty.git
-   cd tartarus-insight  
+   cd chatty_rusty  
 ```
 
 ### 4. **Create a New Branch**
